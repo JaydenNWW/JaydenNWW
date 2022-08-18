@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JaydenNWW
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I want to be a frontend developer.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 📫 How to reach me ...
 
 <!---
